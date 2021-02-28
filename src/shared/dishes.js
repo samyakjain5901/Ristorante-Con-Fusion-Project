@@ -11,7 +11,7 @@ export const DISHES =
         description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                    
         },
         {
-        id: 1,
+        id: 1, 
         name:'Zucchipakoda',
         image: '/assets/images/zucchipakoda.png',
         category: 'appetizer',
